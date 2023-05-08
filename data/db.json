@@ -1,0 +1,36 @@
+{
+  "personas": [
+    {
+      "nombre": "Bo",
+      "apellido": "Davis",
+      "genero": "Neutrois",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/354.jpg",
+      "id": "5"
+    },
+    {
+      "nombre": "Lyda",
+      "apellido": "Wisoky",
+      "genero": "Neither",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1061.jpg",
+      "id": "7"
+    },
+    {
+      "nombre": "Maximiliano",
+      "apellido": "Principe",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/257.jpg",
+      "id": "fIfG4_h"
+    },
+    {
+      "nombre": "Maximiliano",
+      "apellido": "Principe",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/257.jpg",
+      "id": "xKzXVaP"
+    },
+    {
+      "nombre": "Vanesa",
+      "apellido": "Torales",
+      "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/257.jpg",
+      "id": "uP7aqe3"
+    }
+  ]
+}
